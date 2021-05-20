@@ -8,15 +8,10 @@ I'm creating a series of blog posts showcasing my routine and achievements on th
 
 # Goals
 
-- [ ]  Should be able to create a new *todo* inside a specific user;
-- [ ]  Should be able to list all the *todos* of a specific user;
-- [ ]  Should be able to edit a *todo* **Title** and/or **Headline** validating username and todo ID;
-- [ ]  Should be able to delete a *todo* of a specific user;
-
-### Bonus goals (?) 😁
-
-- [ ]  Should be able to list every user;
-- [ ]  Should be able to delete a user;
+- [X]  Should be able to create a new *todo* inside a specific user;
+- [X]  Should be able to list all the *todos* of a specific user;
+- [X]  Should be able to edit a *todo* **Title** and/or **Headline** validating username and todo ID;
+- [X]  Should be able to delete a *todo* of a specific user;
  
 ### Testing
 
